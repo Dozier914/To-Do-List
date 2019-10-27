@@ -6,3 +6,6 @@ We can also click the trash icon to remove an item from the list.
 
 The items in the list are stored through a JSON file, properly parsed, so when the app is closed and opened again the items 
 remain available. 
+
+Thank you for checking this out and contact me if you would like to suggest 
+improvements.
